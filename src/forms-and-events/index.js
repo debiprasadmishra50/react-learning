@@ -1,8 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-const App = () => {
-    return "HI";
-};
+import App from "./forms-and-events/components/App";
 
 ReactDOM.render(<App />, document.querySelector("#root"));
