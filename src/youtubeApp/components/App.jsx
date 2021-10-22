@@ -15,7 +15,7 @@ class App extends React.Component {
 
     componentDidMount() {
         this.onSearchSubmit(
-            "science nature computer programming health mind power"
+            "science nature computer programming health mind power news music"
         );
     }
 
